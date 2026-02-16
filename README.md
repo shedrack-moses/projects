@@ -34,26 +34,12 @@ A Todo app created using Flutter and the Hive database to persist data. It demon
 ### 3. [Foot_Ticket app ui](https://github.com/shedrack-moses/flutter-ui)
  A Flight booking ticket app made with flutter.
 
-![Project 3 Image](https://via.placeholder.com/600x300)
-
 ---
 
-## 📫 Get in Touch
-
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [Your Twitter Profile](#)
+## 📫 Get in touch-*t- **Twitter:** [Your Twitter Profile](#)
 - **Email:** [ogodomsoeonoriode@gmail.com](mailto:ogodomsoeonoriode@gmail.com)
 
----
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-🌱 **Currently Learning:** [List any new technologies or frameworks you're currently exploring]
-
-💼 **Looking for:** [Indicate if you're open to new job opportunities, collaborations, etc.]
-
-🔭 **Future Goals:** [Mention any future aspirations you have in the field of mobile development]
+🌱 **Currently Learning:** Advanced flutter animations,bloc for state management
 
 Thanks for visiting my profile! 😄
