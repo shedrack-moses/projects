@@ -6,7 +6,7 @@
 ![Riverpod](https://img.shields.io/badge/Riverpod-%230098a1.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-%23FF9900.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-beautifuleautifullutterpecializing am a passionate flutter developer specializing in creating beautiful and responsive applications using Flutter. With a strong foundation in **Firebase Firestore**, **Riverpod** for state management, and **Hive** for local data storage, I bring projects to life with clean and efficient code.
+I am a passionate flutter developer specializing in creating beautiful and responsive applications using Flutter. With a strong foundation in **Firebase Firestore**, **Riverpod** for state management, and **Hive** for local data storage, I bring projects to life with clean and efficient code.
 
 ### 🚀 Technologies & Tools
 
