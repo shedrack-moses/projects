@@ -36,7 +36,7 @@ A Todo app created using Flutter and the Hive database to persist data. It demon
 
 ---
 
-## 📫 Get iflutter
+## 📫 Get in touch
 - **Email:** [ogodomsoeonoriode@gmail.com](mailto:ogodomsoeonoriode@gmail.com)
 
 
